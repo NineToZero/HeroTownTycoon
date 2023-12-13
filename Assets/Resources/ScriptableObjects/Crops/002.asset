@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7877079e57f209e44b662e3c02beec34, type: 3}
+  m_Name: 002
+  m_EditorClassIdentifier: 
+  CropID: 2
+  CropName: "\uC625\uC218\uC218"
+  GrowCycle: 2
+  DefaultYield: 0200000003000000040000000500000007000000
+  AbsorbWater: 20
+  ConsumeWater: 15
+  MinRecommendedWater: 40
+  MaxRecommendedWater: 60
+  AbsorbNutrition: 20
+  ConsumeNutrition: 15
+  MinRecommendedNutrition: 50
+  MaxRecommendedNutrition: 70
+  PestAmountPerDay: 0
+  MinRecommendedPest: 0
+  MaxRecommendedPest: 20
+  NutritionByPesticide: 6
+  PestByFertile: 12

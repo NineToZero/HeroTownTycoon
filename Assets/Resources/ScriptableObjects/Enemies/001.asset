@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc3e2bdeba64dc04f8c8e0439988e677, type: 3}
+  m_Name: 001
+  m_EditorClassIdentifier: 
+  MaxHealth: 300
+  GenHealth: 2
+  InitMana: 0
+  MaxMana: 100
+  GenMana: 20
+  AtkPower: 10
+  AtkRange: 1
+  AtkSpeed: 55
+  MagPower: 40
+  CriticalChance: 5
+  CriticalDamage: 60
+  DodgeChance: 0
+  Armor: 7
+  Name: "\uACE0\uBE14\uB9B0 \uC77C\uAFBC"
+  Id: 1

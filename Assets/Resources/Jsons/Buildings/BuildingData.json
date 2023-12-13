@@ -1,0 +1,342 @@
+[
+  {
+    "BuildingType": 1001,
+    "ActionType": 0,
+    "Name": "농지",
+    "Tier": 1,
+    "SizeX": 1,
+    "SizeY": 1,
+    "Buttons": [
+      2,
+      1,
+      0
+    ],
+    "Upgrade": 0,
+    "Desc": "씨앗을 심어 필요한 재료를 획득할 수 있습니다."
+  },
+  {
+    "BuildingType": 2001,
+    "ActionType": 1,
+    "Name": "우물",
+    "Tier": 1,
+    "SizeX": 2,
+    "SizeY": 2,
+    "Buttons": [
+      2,
+      1,
+      0
+    ],
+    "Upgrade": 0,
+    "Desc": "하루가 지날 때 주변 농지에 물을 공급합니다."
+  },
+  {
+    "BuildingType": 2002,
+    "ActionType": 1,
+    "Name": "집",
+    "Tier": 1,
+    "SizeX": 2,
+    "SizeY": 2,
+    "Buttons": [
+      2,
+      1,
+      0
+    ],
+    "Upgrade": 0,
+    "Desc": "마을에 더 많은 용사를 초대할 수 있습니다."
+  },
+  {
+    "BuildingType": 3001,
+    "ActionType": 2,
+    "Name": "회관",
+    "Tier": 1,
+    "SizeX": 3,
+    "SizeY": 4,
+    "Buttons": [
+      12,
+      1,
+      0
+    ],
+    "Upgrade": 0,
+    "Desc": "용사들을 관리할 수 있습니다."
+  },
+  {
+    "BuildingType": 3002,
+    "ActionType": 2,
+    "Name": "토벌 의뢰소",
+    "Tier": 1,
+    "SizeX": 2,
+    "SizeY": 2,
+    "Buttons": [
+      7,
+      1,
+      0
+    ],
+    "Upgrade": 0,
+    "Desc": "최선의 방어는 공격! 몬스터를 토벌하러 출정합니다."
+  },
+  {
+    "BuildingType": 3003,
+    "ActionType": 2,
+    "Name": "모험가 길드",
+    "Tier": 1,
+    "SizeX": 2,
+    "SizeY": 2,
+    "Buttons": [
+      2,
+      1,
+      0
+    ],
+    "Upgrade": 0,
+    "Desc": "용사는 모든 굴레와 속박을 벗어던지고 긴 여정을 떠납니다."
+  },
+  {
+    "BuildingType": 3004,
+    "ActionType": 2,
+    "Name": "허름한 식당",
+    "Tier": 1,
+    "SizeX": 2,
+    "SizeY": 2,
+    "Buttons": [
+      6,
+      3,
+      2,
+      1,
+      0
+    ],
+    "Upgrade": 3005,
+    "Desc": "여기는 골목의 숨은 맛집일까?"
+  },
+  {
+    "BuildingType": 3005,
+    "ActionType": 2,
+    "Name": "깨끗한 식당",
+    "Tier": 2,
+    "SizeX": 2,
+    "SizeY": 2,
+    "Buttons": [
+      6,
+      3,
+      2,
+      1,
+      0
+    ],
+    "Upgrade": 3006,
+    "Desc": "용사들이 데이트할 때 가장 많이 방문한다는 소문이 있습니다."
+  },
+  {
+    "BuildingType": 3006,
+    "ActionType": 2,
+    "Name": "빽 레스토랑",
+    "Tier": 3,
+    "SizeX": 2,
+    "SizeY": 1,
+    "Buttons": [
+      6,
+      2,
+      1,
+      0
+    ],
+    "Upgrade": 0,
+    "Desc": "전채 요리라는 것이 나오는 고급 레스토랑이에유"
+  },
+  {
+    "BuildingType": 3007,
+    "ActionType": 2,
+    "Name": "허름한 병원",
+    "Tier": 1,
+    "SizeX": 2,
+    "SizeY": 1,
+    "Buttons": [
+      5,
+      3,
+      2,
+      1,
+      0
+    ],
+    "Upgrade": 3008,
+    "Desc": "부상당한 용사를 치료는 할 수 있습니다."
+  },
+  {
+    "BuildingType": 3008,
+    "ActionType": 2,
+    "Name": "조용한 병원",
+    "Tier": 2,
+    "SizeX": 2,
+    "SizeY": 1,
+    "Buttons": [
+      5,
+      3,
+      2,
+      1,
+      0
+    ],
+    "Upgrade": 3009,
+    "Desc": "부상당한 용사를 치료 할 수 있습니다."
+  },
+  {
+    "BuildingType": 3009,
+    "ActionType": 2,
+    "Name": "길드 병원",
+    "Tier": 3,
+    "SizeX": 2,
+    "SizeY": 2,
+    "Buttons": [
+      5,
+      2,
+      1,
+      0
+    ],
+    "Upgrade": 0,
+    "Desc": "죽은 사람 살리는 것 빼고는 다 할 수 있습니다."
+  },
+  {
+    "BuildingType": 3010,
+    "ActionType": 2,
+    "Name": "식어버린 공방",
+    "Tier": 1,
+    "SizeX": 2,
+    "SizeY": 2,
+    "Buttons": [
+      4,
+      3,
+      2,
+      1,
+      0
+    ],
+    "Upgrade": 3011,
+    "Desc": "여기 제품 믿을 수 있을까...?"
+  },
+  {
+    "BuildingType": 3011,
+    "ActionType": 2,
+    "Name": "뜨거운 공방",
+    "Tier": 2,
+    "SizeX": 2,
+    "SizeY": 2,
+    "Buttons": [
+      4,
+      3,
+      2,
+      1,
+      0
+    ],
+    "Upgrade": 3012,
+    "Desc": "구수한 땀과 철의 향기, 인류의 발전을 후각으로 느낄 수 있습니다."
+  },
+  {
+    "BuildingType": 3012,
+    "ActionType": 2,
+    "Name": "엑스 공방",
+    "Tier": 3,
+    "SizeX": 2,
+    "SizeY": 2,
+    "Buttons": [
+      4,
+      2,
+      1,
+      0
+    ],
+    "Upgrade": 0,
+    "Desc": "공방 주인은 항상 저 멀리 있는 별에 가고 싶어 합니다."
+  },
+  {
+    "BuildingType": 3013,
+    "ActionType": 2,
+    "Name": "허름한 상점",
+    "Tier": 1,
+    "SizeX": 2,
+    "SizeY": 1,
+    "Buttons": [
+      9,
+      3,
+      2,
+      1,
+      0
+    ],
+    "Upgrade": 3014,
+    "Desc": "있는 거 뺴고 다 있는 상점입니다."
+  },
+  {
+    "BuildingType": 3014,
+    "ActionType": 2,
+    "Name": "분주한 상점",
+    "Tier": 2,
+    "SizeX": 2,
+    "SizeY": 1,
+    "Buttons": [
+      9,
+      3,
+      2,
+      1,
+      0
+    ],
+    "Upgrade": 3015,
+    "Desc": "항상 용사들로 북적이는 곳입니다."
+  },
+  {
+    "BuildingType": 3015,
+    "ActionType": 2,
+    "Name": "백화점",
+    "Tier": 3,
+    "SizeX": 2,
+    "SizeY": 1,
+    "Buttons": [
+      9,
+      2,
+      1,
+      0
+    ],
+    "Upgrade": 0,
+    "Desc": "좋은 품질 착한 가격 언제든지 방문하고 싶습니다."
+  },
+  {
+    "BuildingType": 4001,
+    "ActionType": 3,
+    "Name": "무너진 창고",
+    "Tier": 1,
+    "SizeX": 1,
+    "SizeY": 2,
+    "Buttons": [
+      10,
+      3,
+      2,
+      1,
+      0
+    ],
+    "Upgrade": 4002,
+    "Desc": "땅에 묻는 것이 더 옳바른 보관 방법입니다."
+  },
+  {
+    "BuildingType": 4002,
+    "ActionType": 3,
+    "Name": "볼만한 창고",
+    "Tier": 2,
+    "SizeX": 1,
+    "SizeY": 2,
+    "Buttons": [
+      10,
+      3,
+      2,
+      1,
+      0
+    ],
+    "Upgrade": 4003,
+    "Desc": "물품을 보관하기에 효율적인 방법입니다."
+  },
+  {
+    "BuildingType": 4003,
+    "ActionType": 3,
+    "Name": "넓은 창고",
+    "Tier": 3,
+    "SizeX": 1,
+    "SizeY": 2,
+    "Buttons": [
+      10,
+      2,
+      1,
+      0
+    ],
+    "Upgrade": 0,
+    "Desc": "물품을 보관하기에 효율적인 방법입니다."
+  }
+]

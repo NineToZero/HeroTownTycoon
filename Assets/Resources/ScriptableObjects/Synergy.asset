@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 381464f59951582428fe06395aa5f84e, type: 3}
+  m_Name: Synergy
+  m_EditorClassIdentifier: 
+  _synergies:
+  - Name: "\uCD08\uB85D\uBE5B"
+    RequiredOriginCode: 640000006b000000
+    Effects:
+    - Stat: 1
+      Value: 10
+  - Name: "\uACE0\uC9C0\uB300"
+    RequiredOriginCode: 660000006c0000006d000000
+    Effects:
+    - Stat: 6
+      Value: 1
+  - Name: "\uD56B\uC2A4\uD31F"
+    RequiredOriginCode: 680000006c000000
+    Effects:
+    - Stat: 5
+      Value: 10

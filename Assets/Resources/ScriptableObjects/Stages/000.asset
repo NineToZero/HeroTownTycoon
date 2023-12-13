@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63e331e10a98f064b927741341e9daaf, type: 3}
+  m_Name: 000
+  m_EditorClassIdentifier: 
+  Id: 0
+  Tier: 0
+  Name: "\uC791\uC740 \uC232"
+  EnemyIds: 0000000001000000
+  Reward:
+    Gold: 500
+    Items: d43000009c310000983a0000993a00009a3a00009b3a0000803e0000823e0000863e0000893e0000
+  MaxPhase: 4
+  PartyCapacity: 2
+  BattlePhaseRatio: 5
+  Min: 1
+  Max: 3
+  _mapLength: 3

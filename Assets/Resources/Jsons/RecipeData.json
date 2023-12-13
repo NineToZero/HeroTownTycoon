@@ -1,0 +1,900 @@
+[
+  {
+    "BuildingType": 3007,
+    "RecipeDatas": [
+      {
+        "Output": {
+          "ItemId": 14000,
+          "Quantity": 3
+        },
+        "Inputs": [
+          {
+            "ItemId": 12700,
+            "Quantity": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "BuildingType": 3008,
+    "RecipeDatas": [
+      {
+        "Output": {
+          "ItemId": 14000,
+          "Quantity": 3
+        },
+        "Inputs": [
+          {
+            "ItemId": 12700,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 14001,
+          "Quantity": 3
+        },
+        "Inputs": [
+          {
+            "ItemId": 12500,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 12700,
+            "Quantity": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "BuildingType": 3009,
+    "RecipeDatas": [
+      {
+        "Output": {
+          "ItemId": 14000,
+          "Quantity": 3
+        },
+        "Inputs": [
+          {
+            "ItemId": 12700,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 14001,
+          "Quantity": 3
+        },
+        "Inputs": [
+          {
+            "ItemId": 12500,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 12700,
+            "Quantity": 3
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 14002,
+          "Quantity": 3
+        },
+        "Inputs": [
+          {
+            "ItemId": 14000,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 12702,
+            "Quantity": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "BuildingType": 3004,
+    "RecipeDatas": [
+      {
+        "Output": {
+          "ItemId": 11500,
+          "Quantity": 1
+        },
+        "Inputs": [
+          {
+            "ItemId": 11000,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11501,
+          "Quantity": 2
+        },
+        "Inputs": [
+          {
+            "ItemId": 11001,
+            "Quantity": 2
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11502,
+          "Quantity": 1
+        },
+        "Inputs": [
+          {
+            "ItemId": 11003,
+            "Quantity": 2
+          },
+          {
+            "ItemId": 11300,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11503,
+          "Quantity": 1
+        },
+        "Inputs": [
+          {
+            "ItemId": 11002,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11001,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11504,
+          "Quantity": 1
+        },
+        "Inputs": [
+          {
+            "ItemId": 11301,
+            "Quantity": 2
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11505,
+          "Quantity": 1
+        },
+        "Inputs": [
+          {
+            "ItemId": 11000,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11004,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11506,
+          "Quantity": 1
+        },
+        "Inputs": [
+          {
+            "ItemId": 11001,
+            "Quantity": 2
+          },
+          {
+            "ItemId": 11300,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11507,
+          "Quantity": 1
+        },
+        "Inputs": [
+          {
+            "ItemId": 11004,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11005,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11006,
+            "Quantity": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "BuildingType": 3005,
+    "RecipeDatas": [
+      {
+        "Output": {
+          "ItemId": 11500,
+          "Quantity": 1
+        },
+        "Inputs": [
+          {
+            "ItemId": 11000,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11501,
+          "Quantity": 2
+        },
+        "Inputs": [
+          {
+            "ItemId": 11001,
+            "Quantity": 2
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11502,
+          "Quantity": 1
+        },
+        "Inputs": [
+          {
+            "ItemId": 11003,
+            "Quantity": 2
+          },
+          {
+            "ItemId": 11300,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11503,
+          "Quantity": 1
+        },
+        "Inputs": [
+          {
+            "ItemId": 11002,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11001,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11504,
+          "Quantity": 1
+        },
+        "Inputs": [
+          {
+            "ItemId": 11301,
+            "Quantity": 2
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11505,
+          "Quantity": 1
+        },
+        "Inputs": [
+          {
+            "ItemId": 11000,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11004,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11506,
+          "Quantity": 1
+        },
+        "Inputs": [
+          {
+            "ItemId": 11001,
+            "Quantity": 2
+          },
+          {
+            "ItemId": 11300,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11507,
+          "Quantity": 1
+        },
+        "Inputs": [
+          {
+            "ItemId": 11004,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11005,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11006,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11508,
+          "Quantity": 2
+        },
+        "Inputs": [
+          {
+            "ItemId": 11007,
+            "Quantity": 2
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11509,
+          "Quantity": 2
+        },
+        "Inputs": [
+          {
+            "ItemId": 11009,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11000,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11001,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11510,
+          "Quantity": 3
+        },
+        "Inputs": [
+          {
+            "ItemId": 11003,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11007,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11503,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11511,
+          "Quantity": 2
+        },
+        "Inputs": [
+          {
+            "ItemId": 11008,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 12701,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11512,
+          "Quantity": 2
+        },
+        "Inputs": [
+          {
+            "ItemId": 11303,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11513,
+          "Quantity": 3
+        },
+        "Inputs": [
+          {
+            "ItemId": 11303,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 12701,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11007,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11514,
+          "Quantity": 3
+        },
+        "Inputs": [
+          {
+            "ItemId": 11302,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11000,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11010,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11515,
+          "Quantity": 2
+        },
+        "Inputs": [
+          {
+            "ItemId": 11302,
+            "Quantity": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "BuildingType": 3006,
+    "RecipeDatas": [
+      {
+        "Output": {
+          "ItemId": 11500,
+          "Quantity": 1
+        },
+        "Inputs": [
+          {
+            "ItemId": 11000,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11501,
+          "Quantity": 2
+        },
+        "Inputs": [
+          {
+            "ItemId": 11001,
+            "Quantity": 2
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11502,
+          "Quantity": 1
+        },
+        "Inputs": [
+          {
+            "ItemId": 11003,
+            "Quantity": 2
+          },
+          {
+            "ItemId": 11300,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11503,
+          "Quantity": 1
+        },
+        "Inputs": [
+          {
+            "ItemId": 11002,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11001,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11504,
+          "Quantity": 1
+        },
+        "Inputs": [
+          {
+            "ItemId": 11301,
+            "Quantity": 2
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11505,
+          "Quantity": 1
+        },
+        "Inputs": [
+          {
+            "ItemId": 11000,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11004,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11506,
+          "Quantity": 1
+        },
+        "Inputs": [
+          {
+            "ItemId": 11001,
+            "Quantity": 2
+          },
+          {
+            "ItemId": 11300,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11507,
+          "Quantity": 1
+        },
+        "Inputs": [
+          {
+            "ItemId": 11004,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11005,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11006,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11508,
+          "Quantity": 2
+        },
+        "Inputs": [
+          {
+            "ItemId": 11007,
+            "Quantity": 2
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11509,
+          "Quantity": 2
+        },
+        "Inputs": [
+          {
+            "ItemId": 11009,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11000,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11001,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11510,
+          "Quantity": 3
+        },
+        "Inputs": [
+          {
+            "ItemId": 11003,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11007,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11503,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11511,
+          "Quantity": 2
+        },
+        "Inputs": [
+          {
+            "ItemId": 11008,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 12701,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11512,
+          "Quantity": 2
+        },
+        "Inputs": [
+          {
+            "ItemId": 11303,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11513,
+          "Quantity": 3
+        },
+        "Inputs": [
+          {
+            "ItemId": 11303,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 12701,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11007,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11514,
+          "Quantity": 3
+        },
+        "Inputs": [
+          {
+            "ItemId": 11302,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11000,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11010,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11515,
+          "Quantity": 2
+        },
+        "Inputs": [
+          {
+            "ItemId": 11302,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11516,
+          "Quantity": 3
+        },
+        "Inputs": [
+          {
+            "ItemId": 11011,
+            "Quantity": 3
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11517,
+          "Quantity": 3
+        },
+        "Inputs": [
+          {
+            "ItemId": 11011,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11014,
+            "Quantity": 2
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11518,
+          "Quantity": 3
+        },
+        "Inputs": [
+          {
+            "ItemId": 11013,
+            "Quantity": 3
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11519,
+          "Quantity": 3
+        },
+        "Inputs": [
+          {
+            "ItemId": 11304,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11006,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11010,
+            "Quantity": 2
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11520,
+          "Quantity": 3
+        },
+        "Inputs": [
+          {
+            "ItemId": 11302,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 12701,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11007,
+            "Quantity": 3
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11521,
+          "Quantity": 3
+        },
+        "Inputs": [
+          {
+            "ItemId": 11306,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 12701,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11007,
+            "Quantity": 3
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11522,
+          "Quantity": 3
+        },
+        "Inputs": [
+          {
+            "ItemId": 11306,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11010,
+            "Quantity": 2
+          },
+          {
+            "ItemId": 11006,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11523,
+          "Quantity": 3
+        },
+        "Inputs": [
+          {
+            "ItemId": 11305,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11010,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11006,
+            "Quantity": 1
+          }
+        ]
+      },
+      {
+        "Output": {
+          "ItemId": 11524,
+          "Quantity": 3
+        },
+        "Inputs": [
+          {
+            "ItemId": 11012,
+            "Quantity": 2
+          },
+          {
+            "ItemId": 11007,
+            "Quantity": 1
+          },
+          {
+            "ItemId": 11301,
+            "Quantity": 1
+          }
+        ]
+      }
+    ]
+  }
+]

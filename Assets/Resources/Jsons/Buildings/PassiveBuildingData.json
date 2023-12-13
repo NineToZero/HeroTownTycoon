@@ -1,0 +1,14 @@
+[
+  {
+    "BuildingType": 2001,
+    "PassiveType": 1001,
+    "Range": 3,
+    "Value": 5
+  },
+  {
+    "BuildingType": 2002,
+    "PassiveType": 2001,
+    "Range": -1,
+    "Value": 2
+  }
+]

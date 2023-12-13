@@ -1,0 +1,1602 @@
+{
+  "DishData": [
+    {
+      "Id": 11000,
+      "Price": 30,
+      "MaxStack": 64,
+      "Tier": 1,
+      "Name": "당근",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 2
+        },
+        {
+          "nutrient": 1,
+          "Value": 1
+        },
+        {
+          "nutrient": 2,
+          "Value": 1
+        },
+        {
+          "nutrient": 3,
+          "Value": 3
+        }
+      ],
+      "FlavorType": 300
+    },
+    {
+      "Id": 11001,
+      "Price": 40,
+      "MaxStack": 64,
+      "Tier": 1,
+      "Name": "감자",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 2
+        },
+        {
+          "nutrient": 1,
+          "Value": 1
+        },
+        {
+          "nutrient": 2,
+          "Value": 1
+        },
+        {
+          "nutrient": 3,
+          "Value": 1
+        }
+      ],
+      "FlavorType": 300
+    },
+    {
+      "Id": 11002,
+      "Price": 30,
+      "MaxStack": 64,
+      "Tier": 1,
+      "Name": "옥수수",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 2
+        },
+        {
+          "nutrient": 1,
+          "Value": 1
+        },
+        {
+          "nutrient": 2,
+          "Value": 1
+        },
+        {
+          "nutrient": 3,
+          "Value": 1
+        }
+      ],
+      "FlavorType": 300
+    },
+    {
+      "Id": 11003,
+      "Price": 45,
+      "MaxStack": 64,
+      "Tier": 1,
+      "Name": "토마토",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 1
+        },
+        {
+          "nutrient": 1,
+          "Value": 1
+        },
+        {
+          "nutrient": 2,
+          "Value": 0
+        },
+        {
+          "nutrient": 3,
+          "Value": 3
+        }
+      ],
+      "FlavorType": 302
+    },
+    {
+      "Id": 11004,
+      "Price": 40,
+      "MaxStack": 64,
+      "Tier": 1,
+      "Name": "배추",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 3
+        },
+        {
+          "nutrient": 1,
+          "Value": 1
+        },
+        {
+          "nutrient": 2,
+          "Value": 0
+        },
+        {
+          "nutrient": 3,
+          "Value": 2
+        }
+      ],
+      "FlavorType": 300
+    },
+    {
+      "Id": 11005,
+      "Price": 40,
+      "MaxStack": 64,
+      "Tier": 1,
+      "Name": "마늘",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 2
+        },
+        {
+          "nutrient": 1,
+          "Value": 0
+        },
+        {
+          "nutrient": 2,
+          "Value": 1
+        },
+        {
+          "nutrient": 3,
+          "Value": 3
+        }
+      ],
+      "FlavorType": 305
+    },
+    {
+      "Id": 11006,
+      "Price": 40,
+      "MaxStack": 64,
+      "Tier": 1,
+      "Name": "고추",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 3
+        },
+        {
+          "nutrient": 1,
+          "Value": 0
+        },
+        {
+          "nutrient": 2,
+          "Value": 0
+        },
+        {
+          "nutrient": 3,
+          "Value": 3
+        }
+      ],
+      "FlavorType": 305
+    },
+    {
+      "Id": 11007,
+      "Price": 60,
+      "MaxStack": 64,
+      "Tier": 2,
+      "Name": "밀",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 4
+        },
+        {
+          "nutrient": 1,
+          "Value": 2
+        },
+        {
+          "nutrient": 2,
+          "Value": 0
+        },
+        {
+          "nutrient": 3,
+          "Value": 1
+        }
+      ],
+      "FlavorType": 300
+    },
+    {
+      "Id": 11008,
+      "Price": 60,
+      "MaxStack": 64,
+      "Tier": 2,
+      "Name": "가지",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 3
+        },
+        {
+          "nutrient": 1,
+          "Value": 1
+        },
+        {
+          "nutrient": 2,
+          "Value": 1
+        },
+        {
+          "nutrient": 3,
+          "Value": 2
+        }
+      ],
+      "FlavorType": 300
+    },
+    {
+      "Id": 11009,
+      "Price": 50,
+      "MaxStack": 64,
+      "Tier": 2,
+      "Name": "강황",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 1
+        },
+        {
+          "nutrient": 1,
+          "Value": 1
+        },
+        {
+          "nutrient": 2,
+          "Value": 2
+        },
+        {
+          "nutrient": 3,
+          "Value": 2
+        }
+      ],
+      "FlavorType": 303
+    },
+    {
+      "Id": 11010,
+      "Price": 40,
+      "MaxStack": 64,
+      "Tier": 2,
+      "Name": "양파",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 2
+        },
+        {
+          "nutrient": 1,
+          "Value": 1
+        },
+        {
+          "nutrient": 2,
+          "Value": 2
+        },
+        {
+          "nutrient": 3,
+          "Value": 2
+        }
+      ],
+      "FlavorType": 305
+    },
+    {
+      "Id": 11011,
+      "Price": 60,
+      "MaxStack": 64,
+      "Tier": 3,
+      "Name": "사탕수수",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 6
+        },
+        {
+          "nutrient": 1,
+          "Value": 0
+        },
+        {
+          "nutrient": 2,
+          "Value": 2
+        },
+        {
+          "nutrient": 3,
+          "Value": 2
+        }
+      ],
+      "FlavorType": 300
+    },
+    {
+      "Id": 11012,
+      "Price": 70,
+      "MaxStack": 64,
+      "Tier": 3,
+      "Name": "호박",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 4
+        },
+        {
+          "nutrient": 1,
+          "Value": 4
+        },
+        {
+          "nutrient": 2,
+          "Value": 1
+        },
+        {
+          "nutrient": 3,
+          "Value": 1
+        }
+      ],
+      "FlavorType": 300
+    },
+    {
+      "Id": 11013,
+      "Price": 60,
+      "MaxStack": 64,
+      "Tier": 3,
+      "Name": "커피콩",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 2
+        },
+        {
+          "nutrient": 1,
+          "Value": 2
+        },
+        {
+          "nutrient": 2,
+          "Value": 2
+        },
+        {
+          "nutrient": 3,
+          "Value": 2
+        }
+      ],
+      "FlavorType": 303
+    },
+    {
+      "Id": 11014,
+      "Price": 60,
+      "MaxStack": 64,
+      "Tier": 3,
+      "Name": "산딸기",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 2
+        },
+        {
+          "nutrient": 1,
+          "Value": 2
+        },
+        {
+          "nutrient": 2,
+          "Value": 2
+        },
+        {
+          "nutrient": 3,
+          "Value": 4
+        }
+      ],
+      "FlavorType": 302
+    },
+    {
+      "Id": 11300,
+      "Price": 100,
+      "MaxStack": 64,
+      "Tier": 1,
+      "Name": "달걀",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 2
+        },
+        {
+          "nutrient": 1,
+          "Value": 30
+        },
+        {
+          "nutrient": 2,
+          "Value": 10
+        },
+        {
+          "nutrient": 3,
+          "Value": 8
+        }
+      ],
+      "FlavorType": 304
+    },
+    {
+      "Id": 11301,
+      "Price": 120,
+      "MaxStack": 64,
+      "Tier": 1,
+      "Name": "우유",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 2
+        },
+        {
+          "nutrient": 1,
+          "Value": 40
+        },
+        {
+          "nutrient": 2,
+          "Value": 6
+        },
+        {
+          "nutrient": 3,
+          "Value": 2
+        }
+      ],
+      "FlavorType": 304
+    },
+    {
+      "Id": 11302,
+      "Price": 200,
+      "MaxStack": 64,
+      "Tier": 2,
+      "Name": "돼지 고기",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 5
+        },
+        {
+          "nutrient": 1,
+          "Value": 25
+        },
+        {
+          "nutrient": 2,
+          "Value": 40
+        },
+        {
+          "nutrient": 3,
+          "Value": 10
+        }
+      ],
+      "FlavorType": 304
+    },
+    {
+      "Id": 11303,
+      "Price": 210,
+      "MaxStack": 64,
+      "Tier": 2,
+      "Name": "청어",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 5
+        },
+        {
+          "nutrient": 1,
+          "Value": 30
+        },
+        {
+          "nutrient": 2,
+          "Value": 35
+        },
+        {
+          "nutrient": 3,
+          "Value": 10
+        }
+      ],
+      "FlavorType": 301
+    },
+    {
+      "Id": 11304,
+      "Price": 300,
+      "MaxStack": 64,
+      "Tier": 3,
+      "Name": "소고기",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 20
+        },
+        {
+          "nutrient": 1,
+          "Value": 20
+        },
+        {
+          "nutrient": 2,
+          "Value": 20
+        },
+        {
+          "nutrient": 3,
+          "Value": 20
+        }
+      ],
+      "FlavorType": 304
+    },
+    {
+      "Id": 11305,
+      "Price": 310,
+      "MaxStack": 64,
+      "Tier": 3,
+      "Name": "조개",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 15
+        },
+        {
+          "nutrient": 1,
+          "Value": 30
+        },
+        {
+          "nutrient": 2,
+          "Value": 35
+        },
+        {
+          "nutrient": 3,
+          "Value": 30
+        }
+      ],
+      "FlavorType": 301
+    },
+    {
+      "Id": 11306,
+      "Price": 330,
+      "MaxStack": 64,
+      "Tier": 3,
+      "Name": "닭고기",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 15
+        },
+        {
+          "nutrient": 1,
+          "Value": 45
+        },
+        {
+          "nutrient": 2,
+          "Value": 35
+        },
+        {
+          "nutrient": 3,
+          "Value": 15
+        }
+      ],
+      "FlavorType": 304
+    },
+    {
+      "Id": 11500,
+      "Price": 100,
+      "MaxStack": 64,
+      "Tier": 1,
+      "Name": "당근 수프",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 40
+        },
+        {
+          "nutrient": 1,
+          "Value": 20
+        },
+        {
+          "nutrient": 2,
+          "Value": 20
+        },
+        {
+          "nutrient": 3,
+          "Value": 30
+        }
+      ],
+      "FlavorType": 301
+    },
+    {
+      "Id": 11501,
+      "Price": 120,
+      "MaxStack": 64,
+      "Tier": 1,
+      "Name": "찐 감자",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 30
+        },
+        {
+          "nutrient": 1,
+          "Value": 10
+        },
+        {
+          "nutrient": 2,
+          "Value": 5
+        },
+        {
+          "nutrient": 3,
+          "Value": 10
+        }
+      ],
+      "FlavorType": 301
+    },
+    {
+      "Id": 11502,
+      "Price": 400,
+      "MaxStack": 64,
+      "Tier": 1,
+      "Name": "토마토 달걀 볶음",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 50
+        },
+        {
+          "nutrient": 1,
+          "Value": 25
+        },
+        {
+          "nutrient": 2,
+          "Value": 25
+        },
+        {
+          "nutrient": 3,
+          "Value": 30
+        }
+      ],
+      "FlavorType": 302
+    },
+    {
+      "Id": 11503,
+      "Price": 300,
+      "MaxStack": 64,
+      "Tier": 1,
+      "Name": "옥수수감자 샐러드",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 50
+        },
+        {
+          "nutrient": 1,
+          "Value": 25
+        },
+        {
+          "nutrient": 2,
+          "Value": 25
+        },
+        {
+          "nutrient": 3,
+          "Value": 30
+        }
+      ],
+      "FlavorType": 300
+    },
+    {
+      "Id": 11504,
+      "Price": 300,
+      "MaxStack": 64,
+      "Tier": 1,
+      "Name": "치즈",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 20
+        },
+        {
+          "nutrient": 1,
+          "Value": 45
+        },
+        {
+          "nutrient": 2,
+          "Value": 45
+        },
+        {
+          "nutrient": 3,
+          "Value": 10
+        }
+      ],
+      "FlavorType": 304
+    },
+    {
+      "Id": 11505,
+      "Price": 300,
+      "MaxStack": 64,
+      "Tier": 1,
+      "Name": "야채 스튜",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 40
+        },
+        {
+          "nutrient": 1,
+          "Value": 20
+        },
+        {
+          "nutrient": 2,
+          "Value": 10
+        },
+        {
+          "nutrient": 3,
+          "Value": 50
+        }
+      ],
+      "FlavorType": 300
+    },
+    {
+      "Id": 11506,
+      "Price": 400,
+      "MaxStack": 64,
+      "Tier": 1,
+      "Name": "감자계란국",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 40
+        },
+        {
+          "nutrient": 1,
+          "Value": 30
+        },
+        {
+          "nutrient": 2,
+          "Value": 50
+        },
+        {
+          "nutrient": 3,
+          "Value": 10
+        }
+      ],
+      "FlavorType": 304
+    },
+    {
+      "Id": 11507,
+      "Price": 400,
+      "MaxStack": 64,
+      "Tier": 1,
+      "Name": "김치",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 50
+        },
+        {
+          "nutrient": 1,
+          "Value": 30
+        },
+        {
+          "nutrient": 2,
+          "Value": 30
+        },
+        {
+          "nutrient": 3,
+          "Value": 50
+        }
+      ],
+      "FlavorType": 305
+    },
+    {
+      "Id": 11508,
+      "Price": 200,
+      "MaxStack": 64,
+      "Tier": 2,
+      "Name": "호밀빵",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 40
+        },
+        {
+          "nutrient": 1,
+          "Value": 20
+        },
+        {
+          "nutrient": 2,
+          "Value": 20
+        },
+        {
+          "nutrient": 3,
+          "Value": 40
+        }
+      ],
+      "FlavorType": 300
+    },
+    {
+      "Id": 11509,
+      "Price": 275,
+      "MaxStack": 64,
+      "Tier": 2,
+      "Name": "매운 카레",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 45
+        },
+        {
+          "nutrient": 1,
+          "Value": 20
+        },
+        {
+          "nutrient": 2,
+          "Value": 15
+        },
+        {
+          "nutrient": 3,
+          "Value": 40
+        }
+      ],
+      "FlavorType": 305
+    },
+    {
+      "Id": 11510,
+      "Price": 200,
+      "MaxStack": 64,
+      "Tier": 2,
+      "Name": "토마토 파스타",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 30
+        },
+        {
+          "nutrient": 1,
+          "Value": 13
+        },
+        {
+          "nutrient": 2,
+          "Value": 27
+        },
+        {
+          "nutrient": 3,
+          "Value": 13
+        }
+      ],
+      "FlavorType": 300
+    },
+    {
+      "Id": 11511,
+      "Price": 225,
+      "MaxStack": 64,
+      "Tier": 2,
+      "Name": "가지 무침",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 40
+        },
+        {
+          "nutrient": 1,
+          "Value": 25
+        },
+        {
+          "nutrient": 2,
+          "Value": 25
+        },
+        {
+          "nutrient": 3,
+          "Value": 30
+        }
+      ],
+      "FlavorType": 300
+    },
+    {
+      "Id": 11512,
+      "Price": 225,
+      "MaxStack": 64,
+      "Tier": 2,
+      "Name": "청어 구이",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 15
+        },
+        {
+          "nutrient": 1,
+          "Value": 40
+        },
+        {
+          "nutrient": 2,
+          "Value": 40
+        },
+        {
+          "nutrient": 3,
+          "Value": 30
+        }
+      ],
+      "FlavorType": 301
+    },
+    {
+      "Id": 11513,
+      "Price": 200,
+      "MaxStack": 64,
+      "Tier": 2,
+      "Name": "피시앤칩스",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 13
+        },
+        {
+          "nutrient": 1,
+          "Value": 23
+        },
+        {
+          "nutrient": 2,
+          "Value": 27
+        },
+        {
+          "nutrient": 3,
+          "Value": 17
+        }
+      ],
+      "FlavorType": 301
+    },
+    {
+      "Id": 11514,
+      "Price": 200,
+      "MaxStack": 64,
+      "Tier": 2,
+      "Name": "돼지 불고기",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 23
+        },
+        {
+          "nutrient": 1,
+          "Value": 27
+        },
+        {
+          "nutrient": 2,
+          "Value": 33
+        },
+        {
+          "nutrient": 3,
+          "Value": 10
+        }
+      ],
+      "FlavorType": 300
+    },
+    {
+      "Id": 11515,
+      "Price": 200,
+      "MaxStack": 64,
+      "Tier": 2,
+      "Name": "소시지",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 15
+        },
+        {
+          "nutrient": 1,
+          "Value": 80
+        },
+        {
+          "nutrient": 2,
+          "Value": 50
+        },
+        {
+          "nutrient": 3,
+          "Value": 10
+        }
+      ],
+      "FlavorType": 304
+    },
+    {
+      "Id": 11516,
+      "Price": 410,
+      "MaxStack": 64,
+      "Tier": 3,
+      "Name": "사탕수수 쥬스",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 53
+        },
+        {
+          "nutrient": 1,
+          "Value": 7
+        },
+        {
+          "nutrient": 2,
+          "Value": 7
+        },
+        {
+          "nutrient": 3,
+          "Value": 33
+        }
+      ],
+      "FlavorType": 300
+    },
+    {
+      "Id": 11517,
+      "Price": 430,
+      "MaxStack": 64,
+      "Tier": 3,
+      "Name": "산딸기 젤리",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 60
+        },
+        {
+          "nutrient": 1,
+          "Value": 10
+        },
+        {
+          "nutrient": 2,
+          "Value": 7
+        },
+        {
+          "nutrient": 3,
+          "Value": 30
+        }
+      ],
+      "FlavorType": 302
+    },
+    {
+      "Id": 11518,
+      "Price": 390,
+      "MaxStack": 64,
+      "Tier": 3,
+      "Name": "커피",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 33
+        },
+        {
+          "nutrient": 1,
+          "Value": 7
+        },
+        {
+          "nutrient": 2,
+          "Value": 20
+        },
+        {
+          "nutrient": 3,
+          "Value": 47
+        }
+      ],
+      "FlavorType": 303
+    },
+    {
+      "Id": 11519,
+      "Price": 460,
+      "MaxStack": 64,
+      "Tier": 3,
+      "Name": "고추장 불고기",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 17
+        },
+        {
+          "nutrient": 1,
+          "Value": 53
+        },
+        {
+          "nutrient": 2,
+          "Value": 43
+        },
+        {
+          "nutrient": 3,
+          "Value": 13
+        }
+      ],
+      "FlavorType": 305
+    },
+    {
+      "Id": 11520,
+      "Price": 500,
+      "MaxStack": 64,
+      "Tier": 3,
+      "Name": "돈가스",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 17
+        },
+        {
+          "nutrient": 1,
+          "Value": 53
+        },
+        {
+          "nutrient": 2,
+          "Value": 43
+        },
+        {
+          "nutrient": 3,
+          "Value": 13
+        }
+      ],
+      "FlavorType": 304
+    },
+    {
+      "Id": 11521,
+      "Price": 510,
+      "MaxStack": 64,
+      "Tier": 3,
+      "Name": "치킨 가라아게",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 33
+        },
+        {
+          "nutrient": 1,
+          "Value": 57
+        },
+        {
+          "nutrient": 2,
+          "Value": 30
+        },
+        {
+          "nutrient": 3,
+          "Value": 7
+        }
+      ],
+      "FlavorType": 300
+    },
+    {
+      "Id": 11522,
+      "Price": 470,
+      "MaxStack": 64,
+      "Tier": 3,
+      "Name": "닭곰탕",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 27
+        },
+        {
+          "nutrient": 1,
+          "Value": 60
+        },
+        {
+          "nutrient": 2,
+          "Value": 27
+        },
+        {
+          "nutrient": 3,
+          "Value": 7
+        }
+      ],
+      "FlavorType": 304
+    },
+    {
+      "Id": 11523,
+      "Price": 480,
+      "MaxStack": 64,
+      "Tier": 3,
+      "Name": "조개탕",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 17
+        },
+        {
+          "nutrient": 1,
+          "Value": 50
+        },
+        {
+          "nutrient": 2,
+          "Value": 33
+        },
+        {
+          "nutrient": 3,
+          "Value": 7
+        }
+      ],
+      "FlavorType": 301
+    },
+    {
+      "Id": 11524,
+      "Price": 460,
+      "MaxStack": 64,
+      "Tier": 3,
+      "Name": "호박 파이",
+      "Nutrients": [
+        {
+          "nutrient": 0,
+          "Value": 53
+        },
+        {
+          "nutrient": 1,
+          "Value": 10
+        },
+        {
+          "nutrient": 2,
+          "Value": 17
+        },
+        {
+          "nutrient": 3,
+          "Value": 40
+        }
+      ],
+      "FlavorType": 300
+    }
+  ],
+  "EtcItemData": [
+    {
+      "Id": 12500,
+      "Tier": 1,
+      "Name": "이름 모를 약초",
+      "MaxStack": 64,
+      "Price": 100
+    },
+    {
+      "Id": 12700,
+      "Tier": 1,
+      "Name": "천 조각",
+      "MaxStack": 64,
+      "Price": 100
+    },
+    {
+      "Id": 12701,
+      "Tier": 1,
+      "Name": "식용유",
+      "MaxStack": 64,
+      "Price": 100
+    },
+    {
+      "Id": 12702,
+      "Tier": 1,
+      "Name": "나무",
+      "MaxStack": 64,
+      "Price": 100
+    }
+  ],
+  "FarmingItemData": [
+    {
+      "Id": 13000,
+      "Tier": 1,
+      "Name": "물뿌리개",
+      "MaxStack": 16,
+      "Price": 10,
+      "Value": 70
+    },
+    {
+      "Id": 13001,
+      "Tier": 1,
+      "Name": "비료",
+      "MaxStack": 16,
+      "FarmingItemType": 1,
+      "Price": 10,
+      "Value": 70
+    },
+    {
+      "Id": 13002,
+      "Tier": 1,
+      "Name": "살충제",
+      "MaxStack": 16,
+      "FarmingItemType": 2,
+      "Price": 10,
+      "Value": 70
+    }
+  ],
+  "MedicineData": [
+    {
+      "Id": 14000,
+      "Price": 20,
+      "MaxStack": 64,
+      "Tier": 0,
+      "Name": "반창고",
+      "HealthValue": 40
+    },
+    {
+      "Id": 14001,
+      "Price": 50,
+      "MaxStack": 64,
+      "Tier": 0,
+      "Name": "붕대",
+      "HealthValue": 80
+    },
+    {
+      "Id": 14002,
+      "Price": 100,
+      "MaxStack": 64,
+      "Tier": 0,
+      "Name": "구급상자",
+      "HealthValue": 160
+    }
+  ],
+  "SeedData": [
+    {
+      "Id": 15000,
+      "Tier": 1,
+      "Name": "당근 씨앗",
+      "MaxStack": 64,
+      "NumOfHarvests": 3,
+      "Price": 30
+    },
+    {
+      "Id": 15001,
+      "Tier": 1,
+      "Name": "감자 씨앗",
+      "MaxStack": 64,
+      "NumOfHarvests": 4,
+      "Price": 40
+    },
+    {
+      "Id": 15002,
+      "Tier": 1,
+      "Name": "옥수수 씨앗",
+      "MaxStack": 64,
+      "NumOfHarvests": 3,
+      "Price": 30
+    },
+    {
+      "Id": 15003,
+      "Tier": 1,
+      "Name": "토마토 씨앗",
+      "MaxStack": 64,
+      "NumOfHarvests": 5,
+      "Price": 45
+    },
+    {
+      "Id": 15004,
+      "Tier": 1,
+      "Name": "배추 씨앗",
+      "MaxStack": 64,
+      "NumOfHarvests": 4,
+      "Price": 40
+    },
+    {
+      "Id": 15005,
+      "Tier": 1,
+      "Name": "마늘 씨앗",
+      "MaxStack": 64,
+      "NumOfHarvests": 4,
+      "Price": 40
+    },
+    {
+      "Id": 15006,
+      "Tier": 1,
+      "Name": "고추 씨앗",
+      "MaxStack": 64,
+      "NumOfHarvests": 5,
+      "Price": 40
+    },
+    {
+      "Id": 15007,
+      "Tier": 2,
+      "Name": "밀 씨앗",
+      "MaxStack": 64,
+      "NumOfHarvests": 5,
+      "Price": 60
+    },
+    {
+      "Id": 15008,
+      "Tier": 2,
+      "Name": "가지 씨앗",
+      "MaxStack": 64,
+      "NumOfHarvests": 5,
+      "Price": 60
+    },
+    {
+      "Id": 15009,
+      "Tier": 2,
+      "Name": "강황 씨앗",
+      "MaxStack": 64,
+      "NumOfHarvests": 4,
+      "Price": 50
+    },
+    {
+      "Id": 15010,
+      "Tier": 2,
+      "Name": "양파 씨앗",
+      "MaxStack": 64,
+      "NumOfHarvests": 5,
+      "Price": 40
+    },
+    {
+      "Id": 15011,
+      "Tier": 3,
+      "Name": "사탕수수 씨앗",
+      "MaxStack": 64,
+      "NumOfHarvests": 4,
+      "Price": 60
+    },
+    {
+      "Id": 15012,
+      "Tier": 3,
+      "Name": "호박 씨앗",
+      "MaxStack": 64,
+      "NumOfHarvests": 5,
+      "Price": 70
+    },
+    {
+      "Id": 15013,
+      "Tier": 3,
+      "Name": "커피콩 씨앗",
+      "MaxStack": 64,
+      "NumOfHarvests": 4,
+      "Price": 60
+    },
+    {
+      "Id": 15014,
+      "Tier": 3,
+      "Name": "산딸기 씨앗",
+      "MaxStack": 64,
+      "NumOfHarvests": 4,
+      "Price": 60
+    }
+  ],
+  "BlueprintData": [
+    {
+      "Id": 16000,
+      "Tier": 1,
+      "Name": "농지",
+      "MaxStack": 1,
+      "BuildingType": 1001,
+      "Price": 50
+    },
+    {
+      "Id": 16001,
+      "Tier": 1,
+      "Name": "우물",
+      "MaxStack": 1,
+      "BuildingType": 2001,
+      "Price": 100
+    },
+    {
+      "Id": 16002,
+      "Tier": 1,
+      "Name": "집",
+      "MaxStack": 1,
+      "BuildingType": 2002,
+      "Price": 50
+    },
+    {
+      "Id": 16003,
+      "Tier": 1,
+      "Name": "회관",
+      "MaxStack": 1,
+      "BuildingType": 3001,
+      "Price": 100
+    },
+    {
+      "Id": 16004,
+      "Tier": 1,
+      "Name": "토벌 의뢰소",
+      "MaxStack": 1,
+      "BuildingType": 3002,
+      "Price": 100
+    },
+    {
+      "Id": 16005,
+      "Tier": 1,
+      "Name": "모험가 길드",
+      "MaxStack": 1,
+      "BuildingType": 3003,
+      "Price": 100
+    },
+    {
+      "Id": 16006,
+      "Tier": 1,
+      "Name": "허름한 식당",
+      "MaxStack": 1,
+      "BuildingType": 3004,
+      "Price": 100
+    },
+    {
+      "Id": 16007,
+      "Tier": 2,
+      "Name": "깨끗한 식당",
+      "MaxStack": 1,
+      "BuildingType": 3005,
+      "Price": 500
+    },
+    {
+      "Id": 16008,
+      "Tier": 3,
+      "Name": "빽 레스토랑",
+      "MaxStack": 1,
+      "BuildingType": 3006,
+      "Price": 1000
+    },
+    {
+      "Id": 16009,
+      "Tier": 1,
+      "Name": "허름한 병원",
+      "MaxStack": 1,
+      "BuildingType": 3007,
+      "Price": 100
+    },
+    {
+      "Id": 16010,
+      "Tier": 2,
+      "Name": "조용한 병원",
+      "MaxStack": 1,
+      "BuildingType": 3008,
+      "Price": 500
+    },
+    {
+      "Id": 16011,
+      "Tier": 3,
+      "Name": "길드 병원",
+      "MaxStack": 1,
+      "BuildingType": 3009,
+      "Price": 1000
+    },
+    {
+      "Id": 16012,
+      "Tier": 1,
+      "Name": "식어버린 공방",
+      "MaxStack": 1,
+      "BuildingType": 3010,
+      "Price": 100
+    },
+    {
+      "Id": 16013,
+      "Tier": 2,
+      "Name": "뜨거운 공방",
+      "MaxStack": 1,
+      "BuildingType": 3011,
+      "Price": 500
+    },
+    {
+      "Id": 16014,
+      "Tier": 3,
+      "Name": "엑스 공방",
+      "MaxStack": 1,
+      "BuildingType": 3012,
+      "Price": 1000
+    },
+    {
+      "Id": 16015,
+      "Tier": 1,
+      "Name": "허름한 상점",
+      "MaxStack": 1,
+      "BuildingType": 3013,
+      "Price": 100
+    },
+    {
+      "Id": 16016,
+      "Tier": 2,
+      "Name": "분주한 상점",
+      "MaxStack": 1,
+      "BuildingType": 3014,
+      "Price": 800
+    },
+    {
+      "Id": 16017,
+      "Tier": 3,
+      "Name": "백화점",
+      "MaxStack": 1,
+      "BuildingType": 3015,
+      "Price": 1500
+    },
+    {
+      "Id": 16018,
+      "Tier": 1,
+      "Name": "무너진 창고",
+      "MaxStack": 1,
+      "BuildingType": 4001,
+      "Price": 100
+    },
+    {
+      "Id": 16019,
+      "Tier": 2,
+      "Name": "볼만한 창고",
+      "MaxStack": 1,
+      "BuildingType": 4002,
+      "Price": 300
+    },
+    {
+      "Id": 16020,
+      "Tier": 3,
+      "Name": "넓은 창고",
+      "MaxStack": 1,
+      "BuildingType": 4003,
+      "Price": 800
+    }
+  ]
+}

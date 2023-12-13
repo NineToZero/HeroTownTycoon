@@ -1,0 +1,229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6293d0f185149f34c97b76d59bfaf41e, type: 3}
+  m_Name: BuildingSO
+  m_EditorClassIdentifier: 
+  BaseList:
+  - BuildingType: 1001
+    ActionType: 0
+    Upgrade: 0
+    Name: "\uB18D\uC9C0"
+    Desc: "\uC528\uC557\uC744 \uC2EC\uC5B4 \uD544\uC694\uD55C \uC7AC\uB8CC\uB97C
+      \uD68D\uB4DD\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+    Tier: 1
+    SizeX: 1
+    SizeY: 1
+    Buttons: 020000000100000000000000
+  - BuildingType: 2001
+    ActionType: 1
+    Upgrade: 0
+    Name: "\uC6B0\uBB3C"
+    Desc: "\uD558\uB8E8\uAC00 \uC9C0\uB0A0 \uB54C \uC8FC\uBCC0 \uB18D\uC9C0\uC5D0
+      \uBB3C\uC744 \uACF5\uAE09\uD569\uB2C8\uB2E4."
+    Tier: 1
+    SizeX: 2
+    SizeY: 2
+    Buttons: 020000000100000000000000
+  - BuildingType: 2002
+    ActionType: 1
+    Upgrade: 0
+    Name: "\uC9D1"
+    Desc: "\uB9C8\uC744\uC5D0 \uB354 \uB9CE\uC740 \uC6A9\uC0AC\uB97C \uCD08\uB300\uD560
+      \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+    Tier: 1
+    SizeX: 2
+    SizeY: 2
+    Buttons: 020000000100000000000000
+  - BuildingType: 3001
+    ActionType: 2
+    Upgrade: 0
+    Name: "\uD68C\uAD00"
+    Desc: "\uC6A9\uC0AC\uB4E4\uC744 \uAD00\uB9AC\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+    Tier: 1
+    SizeX: 3
+    SizeY: 4
+    Buttons: 0c0000000100000000000000
+  - BuildingType: 3002
+    ActionType: 2
+    Upgrade: 0
+    Name: "\uD1A0\uBC8C \uC758\uB8B0\uC18C"
+    Desc: "\uCD5C\uC120\uC758 \uBC29\uC5B4\uB294 \uACF5\uACA9! \uBAAC\uC2A4\uD130\uB97C
+      \uD1A0\uBC8C\uD558\uB7EC \uCD9C\uC815\uD569\uB2C8\uB2E4."
+    Tier: 1
+    SizeX: 2
+    SizeY: 2
+    Buttons: 070000000100000000000000
+  - BuildingType: 3003
+    ActionType: 2
+    Upgrade: 0
+    Name: "\uBAA8\uD5D8\uAC00 \uAE38\uB4DC"
+    Desc: "\uC6A9\uC0AC\uB294 \uBAA8\uB4E0 \uAD74\uB808\uC640 \uC18D\uBC15\uC744
+      \uBC97\uC5B4\uB358\uC9C0\uACE0 \uAE34 \uC5EC\uC815\uC744 \uB5A0\uB0A9\uB2C8\uB2E4."
+    Tier: 1
+    SizeX: 2
+    SizeY: 2
+    Buttons: 020000000100000000000000
+  - BuildingType: 3004
+    ActionType: 2
+    Upgrade: 3005
+    Name: "\uD5C8\uB984\uD55C \uC2DD\uB2F9"
+    Desc: "\uC5EC\uAE30\uB294 \uACE8\uBAA9\uC758 \uC228\uC740 \uB9DB\uC9D1\uC77C\uAE4C?"
+    Tier: 1
+    SizeX: 2
+    SizeY: 2
+    Buttons: 0600000003000000020000000100000000000000
+  - BuildingType: 3005
+    ActionType: 2
+    Upgrade: 3006
+    Name: "\uAE68\uB057\uD55C \uC2DD\uB2F9"
+    Desc: "\uC6A9\uC0AC\uB4E4\uC774 \uB370\uC774\uD2B8\uD560 \uB54C \uAC00\uC7A5
+      \uB9CE\uC774 \uBC29\uBB38\uD55C\uB2E4\uB294 \uC18C\uBB38\uC774 \uC788\uC2B5\uB2C8\uB2E4."
+    Tier: 2
+    SizeX: 2
+    SizeY: 2
+    Buttons: 0600000003000000020000000100000000000000
+  - BuildingType: 3006
+    ActionType: 2
+    Upgrade: 0
+    Name: "\uBE7D \uB808\uC2A4\uD1A0\uB791"
+    Desc: "\uC804\uCC44 \uC694\uB9AC\uB77C\uB294 \uAC83\uC774 \uB098\uC624\uB294
+      \uACE0\uAE09 \uB808\uC2A4\uD1A0\uB791\uC774\uC5D0\uC720"
+    Tier: 3
+    SizeX: 2
+    SizeY: 1
+    Buttons: 06000000020000000100000000000000
+  - BuildingType: 3007
+    ActionType: 2
+    Upgrade: 3008
+    Name: "\uD5C8\uB984\uD55C \uBCD1\uC6D0"
+    Desc: "\uBD80\uC0C1\uB2F9\uD55C \uC6A9\uC0AC\uB97C \uCE58\uB8CC\uB294 \uD560
+      \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+    Tier: 1
+    SizeX: 2
+    SizeY: 1
+    Buttons: 0500000003000000020000000100000000000000
+  - BuildingType: 3008
+    ActionType: 2
+    Upgrade: 3009
+    Name: "\uC870\uC6A9\uD55C \uBCD1\uC6D0"
+    Desc: "\uBD80\uC0C1\uB2F9\uD55C \uC6A9\uC0AC\uB97C \uCE58\uB8CC \uD560 \uC218
+      \uC788\uC2B5\uB2C8\uB2E4."
+    Tier: 2
+    SizeX: 2
+    SizeY: 1
+    Buttons: 0500000003000000020000000100000000000000
+  - BuildingType: 3009
+    ActionType: 2
+    Upgrade: 0
+    Name: "\uAE38\uB4DC \uBCD1\uC6D0"
+    Desc: "\uC8FD\uC740 \uC0AC\uB78C \uC0B4\uB9AC\uB294 \uAC83 \uBE7C\uACE0\uB294
+      \uB2E4 \uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+    Tier: 3
+    SizeX: 2
+    SizeY: 2
+    Buttons: 05000000020000000100000000000000
+  - BuildingType: 3010
+    ActionType: 2
+    Upgrade: 3011
+    Name: "\uC2DD\uC5B4\uBC84\uB9B0 \uACF5\uBC29"
+    Desc: "\uC5EC\uAE30 \uC81C\uD488 \uBBFF\uC744 \uC218 \uC788\uC744\uAE4C...?"
+    Tier: 1
+    SizeX: 2
+    SizeY: 2
+    Buttons: 0400000003000000020000000100000000000000
+  - BuildingType: 3011
+    ActionType: 2
+    Upgrade: 3012
+    Name: "\uB728\uAC70\uC6B4 \uACF5\uBC29"
+    Desc: "\uAD6C\uC218\uD55C \uB540\uACFC \uCCA0\uC758 \uD5A5\uAE30, \uC778\uB958\uC758
+      \uBC1C\uC804\uC744 \uD6C4\uAC01\uC73C\uB85C \uB290\uB084 \uC218 \uC788\uC2B5\uB2C8\uB2E4."
+    Tier: 2
+    SizeX: 2
+    SizeY: 2
+    Buttons: 0400000003000000020000000100000000000000
+  - BuildingType: 3012
+    ActionType: 2
+    Upgrade: 0
+    Name: "\uC5D1\uC2A4 \uACF5\uBC29"
+    Desc: "\uACF5\uBC29 \uC8FC\uC778\uC740 \uD56D\uC0C1 \uC800 \uBA40\uB9AC \uC788\uB294
+      \uBCC4\uC5D0 \uAC00\uACE0 \uC2F6\uC5B4 \uD569\uB2C8\uB2E4."
+    Tier: 3
+    SizeX: 2
+    SizeY: 2
+    Buttons: 04000000020000000100000000000000
+  - BuildingType: 3013
+    ActionType: 2
+    Upgrade: 3014
+    Name: "\uD5C8\uB984\uD55C \uC0C1\uC810"
+    Desc: "\uC788\uB294 \uAC70 \uBEB4\uACE0 \uB2E4 \uC788\uB294 \uC0C1\uC810\uC785\uB2C8\uB2E4."
+    Tier: 1
+    SizeX: 2
+    SizeY: 1
+    Buttons: 0900000003000000020000000100000000000000
+  - BuildingType: 3014
+    ActionType: 2
+    Upgrade: 3015
+    Name: "\uBD84\uC8FC\uD55C \uC0C1\uC810"
+    Desc: "\uD56D\uC0C1 \uC6A9\uC0AC\uB4E4\uB85C \uBD81\uC801\uC774\uB294 \uACF3\uC785\uB2C8\uB2E4."
+    Tier: 2
+    SizeX: 2
+    SizeY: 1
+    Buttons: 0900000003000000020000000100000000000000
+  - BuildingType: 3015
+    ActionType: 2
+    Upgrade: 0
+    Name: "\uBC31\uD654\uC810"
+    Desc: "\uC88B\uC740 \uD488\uC9C8 \uCC29\uD55C \uAC00\uACA9 \uC5B8\uC81C\uB4E0\uC9C0
+      \uBC29\uBB38\uD558\uACE0 \uC2F6\uC2B5\uB2C8\uB2E4."
+    Tier: 3
+    SizeX: 2
+    SizeY: 1
+    Buttons: 09000000020000000100000000000000
+  - BuildingType: 4001
+    ActionType: 3
+    Upgrade: 4002
+    Name: "\uBB34\uB108\uC9C4 \uCC3D\uACE0"
+    Desc: "\uB545\uC5D0 \uBB3B\uB294 \uAC83\uC774 \uB354 \uC633\uBC14\uB978 \uBCF4\uAD00
+      \uBC29\uBC95\uC785\uB2C8\uB2E4."
+    Tier: 1
+    SizeX: 1
+    SizeY: 2
+    Buttons: 0a00000003000000020000000100000000000000
+  - BuildingType: 4002
+    ActionType: 3
+    Upgrade: 4003
+    Name: "\uBCFC\uB9CC\uD55C \uCC3D\uACE0"
+    Desc: "\uBB3C\uD488\uC744 \uBCF4\uAD00\uD558\uAE30\uC5D0 \uD6A8\uC728\uC801\uC778
+      \uBC29\uBC95\uC785\uB2C8\uB2E4."
+    Tier: 2
+    SizeX: 1
+    SizeY: 2
+    Buttons: 0a00000003000000020000000100000000000000
+  - BuildingType: 4003
+    ActionType: 3
+    Upgrade: 0
+    Name: "\uB113\uC740 \uCC3D\uACE0"
+    Desc: "\uBB3C\uD488\uC744 \uBCF4\uAD00\uD558\uAE30\uC5D0 \uD6A8\uC728\uC801\uC778
+      \uBC29\uBC95\uC785\uB2C8\uB2E4."
+    Tier: 3
+    SizeX: 1
+    SizeY: 2
+    Buttons: 0a000000020000000100000000000000
+  PassiveList:
+  - BuildingType: 2001
+    PassiveType: 1001
+    Range: 3
+    Value: 5
+  - BuildingType: 2002
+    PassiveType: 2001
+    Range: -1
+    Value: 2

@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0cbc81f71aca56499dc824010a63c9e, type: 3}
+  m_Name: IndividualityStat
+  m_EditorClassIdentifier: 
+  FirstName: 30aee0c274c778b170c8
+  MiddleName: 04d6b0c658d5acc7a9c6
+  LastName: 48be1dc1ddd0b0c600c9
+  Jobs:
+  - Name: "\uBAA8\uD5D8\uAC00"
+    id: 0
+    SpriteIds: 0700000008000000
+  - Name: "\uC694\uB9AC\uC0AC"
+    id: 1
+    SpriteIds: 0100000004000000
+  - Name: "\uC0C1\uC778"
+    id: 2
+    SpriteIds: 0200000005000000
+  - Name: "\uC5B4\uBD80"
+    id: 3
+    SpriteIds: 0300000006000000
+  Origins:
+  - Name: "\uCD08\uC6D0"
+    id: 100
+  - Name: "\uD574\uC548"
+    id: 101
+  - Name: "\uC0B0\uB9E5"
+    id: 102
+  - Name: "\uB3D9\uAD74"
+    id: 103
+  - Name: "\uC0AC\uB9C9"
+    id: 104
+  - Name: "\uC124\uC6D0"
+    id: 105
+  - Name: "\uB2AA\uC9C0"
+    id: 106
+  - Name: "\uC815\uAE00"
+    id: 107
+  - Name: "\uD654\uC0B0"
+    id: 108
+  - Name: "\uC808\uBCBD"
+    id: 109
+  Natures:
+  - Name: "\uB290\uAE0B\uD55C"
+    id: 200
+    PositiveStat: 0
+    NegativeStat: 7
+  - Name: "\uC131\uAE09\uD55C"
+    id: 201
+    PositiveStat: 7
+    NegativeStat: 0
+  - Name: "\uCE5C\uADFC\uD55C"
+    id: 202
+    PositiveStat: 0
+    NegativeStat: 0
+  Flavors:
+  - Name: "\uB2E8\uB9DB"
+    id: 300
+  - Name: "\uC9E0\uB9DB"
+    id: 301
+  - Name: "\uC2E0\uB9DB"
+    id: 302
+  - Name: "\uC4F4\uB9DB"
+    id: 303
+  - Name: "\uAC10\uCE60\uB9DB"
+    id: 304
+  - Name: "\uB9E4\uC6B4 \uB9DB"
+    id: 305
