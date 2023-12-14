@@ -1,39 +1,24 @@
-using System.Collections;
 using UnityEngine;
 
 [RequireComponent(typeof(Collider))]
 public class Collectable : MonoBehaviour
 {
-    private SpriteRenderer spriteRenderer;
-    private Collider _collider;
+    [SerializeField] private SpriteRenderer spriteRenderer;
+    [SerializeField] private Collider _collider;
+    private int _itemId;
 
-    private WaitForSeconds _secondsByTriggerEnable = new WaitForSeconds(0.5f);
-
-    public int ItemId;
-
-    private void Awake()
+    public void Init(int itemId, Vector3 position)
     {
-        spriteRenderer = GetComponent<SpriteRenderer>();
-        _collider = GetComponent<Collider>();
-    }
-
-    public void Init(int itemId)
-    {
-        ItemId = itemId;
+        _itemId = itemId;
         spriteRenderer.sprite = Managers.Instance.DataManager.GetItemSprites(itemId);
-        StartCoroutine(EnableTrigger());
-    }
+        transform.position = position;
+        gameObject.SetActive(true);
 
-    private IEnumerator EnableTrigger()
-    {
-        yield return _secondsByTriggerEnable;
-        _collider.enabled = true;
-    }
-
-    private void OnEnable()
-    {
         _collider.enabled = false;
+        Invoke(nameof(SetEnabled), 0.5f);
     }
+
+    private void SetEnabled() => _collider.enabled = true;
 
     private void OnTriggerEnter(Collider collision)
     {
@@ -41,8 +26,8 @@ public class Collectable : MonoBehaviour
 
         if (isValid)
         {
-            if (inventoryController.Inventory.Add(ItemId))
-                Destroy(this.gameObject); // TODO : 오브젝트 풀링으로!
+            if (inventoryController.Inventory.Add(_itemId))
+                gameObject.SetActive(false);
         }
     }
 }

@@ -150,6 +150,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3518f5e4b06a57e46b5be2f94d735dbb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spriteRenderer: {fileID: -761236966628222049}
+  _collider: {fileID: 7643008871782362339}
   ItemId: 0
 --- !u!114 &-5109780267231488755
 MonoBehaviour:
