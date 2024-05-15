@@ -62,9 +62,12 @@
 
 - 조작법
   
-   ![제목 없는 프레젠테이션](https://github.com/NineToZero/FinalProject/assets/139848355/3468ab75-bbaa-4732-839c-91403c366933)
-   ![제목 없는 프레젠테이션 (1)](https://github.com/NineToZero/FinalProject/assets/139848355/f99bca4b-edc6-4f7f-9241-48439057d205)
-   ![제목 없는 프레젠테이션 (2)](https://github.com/NineToZero/FinalProject/assets/139848355/04910ff2-bf7f-499a-8f51-d078eeef0256)
+   ![image](https://github.com/NineToZero/HeroTownTycoon/assets/125940144/df95b4d9-6757-4362-b6e2-7584872b94c9)
+
+   ![image](https://github.com/NineToZero/HeroTownTycoon/assets/125940144/9ec89c1c-55e9-4a30-ac26-975ce713c051)
+
+   ![image](https://github.com/NineToZero/HeroTownTycoon/assets/125940144/3c1c7221-d8bb-4423-a4d9-8d7e698073af)
+
 
 <br>
 <br>
