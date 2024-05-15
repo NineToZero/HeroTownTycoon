@@ -126,7 +126,7 @@
 
 </div>
 
-> 유튜브 : ~
+> 유튜브 : https://youtu.be/wVLRheZ84dQ?si=nVCR9T_p99OnxBS3
 > 
 > 브로셔 : https://teamsparta.notion.site/0961169863374de7b5150a87ad8a8a18
 >
